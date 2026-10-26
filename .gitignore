@@ -1,0 +1,7 @@
+build/
+*.elf
+*.ds.gba
+.DS_Store
+._*
+__pycache__/
+*.pyc
