@@ -2,6 +2,16 @@
 
 An original arcade city-driving game for Nintendo DS. Drive through a neon city, collect packages, beat the delivery clock, dodge traffic and pursuing police, earn cash, and repair or upgrade your car at the central garage. The top screen shows the 3D city; the touch screen has a live map and dashboard. The camera follows your car from above, with nearby buildings cut away only when they block its sightline. Cars have solid collision bodies. Your car can nudge traffic and police aside when it has momentum, with brief lighter damage on impact. Police pursue along roads and turn at junctions.
 
+## Screenshots
+
+Captured in melonDS from the Nintendo DS build.
+
+<p align="center">
+  <img src="docs/screenshots/title.png" width="240" alt="Midnight Circuit title screen">
+  <img src="docs/screenshots/city.png" width="240" alt="City view and driving dashboard">
+  <img src="docs/screenshots/driving.png" width="240" alt="Driving toward a pickup through the city">
+</p>
+
 ## Play
 
 Copy `midnight-circuit.nds` to an `ROMS/nds` folder on a DS flashcart and select **Midnight Circuit** in its menu. This build is also playable directly in melonDS. No commercial game files or Rockstar assets are needed.

@@ -5,3 +5,4 @@ build/
 ._*
 __pycache__/
 *.pyc
+*.mch
